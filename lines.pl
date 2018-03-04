@@ -7,3 +7,4 @@ my $lines = 0;
 $lines++ while <$fh>;
 close $fh;
 print "$lines\n";
+#TEST
